@@ -1,0 +1,15 @@
+{
+  "name": "mvci_bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for MvCi Updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Matt Budde",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0"
+  }
+}
